@@ -4,7 +4,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hi, I'm Deonte, a network and security professional with 11 years of experience in implementing and securing enterprise networks. My expertise lies in firewall management and access control. I'm passionate about cyber and always eager to learn new technologies. Currently, I'm exploring Linux engineering as well as cloud. Let's connect and collaborate! 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
