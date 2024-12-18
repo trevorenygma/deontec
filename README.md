@@ -2,12 +2,10 @@
 # Hello, I'm Deonte
 <a href="https://www.linkedin.com/in/deontetcampbell/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 Hi, I'm Deonte, a network and security professional with 11 years of experience in implementing and securing enterprise networks. My expertise lies in firewall management and access control. I'm passionate about cyber and always eager to learn new technologies. Currently, I'm exploring Linux engineering as well as cloud. Let's connect and collaborate! 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey has been an interesting one. For the last 3 years I have been in sales but my passion for cybersecurity has always remained strong.I am now eager to transition into back into the trenches with my fellow techies, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
