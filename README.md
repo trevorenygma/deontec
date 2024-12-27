@@ -7,7 +7,7 @@ Hi, I'm Deonte, a network and security professional with 11 years of experience 
 
 ## Objective
 
-My journey has been an interesting one. For the last 3 years I have been in sales but my passion for cybersecurity has always remained strong.I am now eager to transition into back into the trenches with my fellow techies, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey has been an interesting one. For the last 3 years I have been in sales but my passion for network security has always remained strong.I am now eager to transition back into the trenches with my fellow techies, specifically aiming to become a Network Security Engineer
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -18,8 +18,7 @@ My journey has been an interesting one. For the last 3 years I have been in sale
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
