@@ -1,4 +1,4 @@
-<h1>Hi, I'm Deonte! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/deontetcampbell//">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Deonte! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/deontetcampbell//">Cybersecurity Professional</a>, <a </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
