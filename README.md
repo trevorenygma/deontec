@@ -1,4 +1,4 @@
-<h1>Hi, I'm Deonte! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/deontetcampbell//"> Network Security Professional</a> <a </h1>
+<h1>Hi, I'm Deonte! <br/><a href="https://github.com/deontec"> <a href="https://www.linkedin.com/in/deontetcampbell//"> Network Security Professional</a> <a </h1>
 
 <h2>👨‍💻 Networking and Cyber Work:</h2>
 
@@ -12,7 +12,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Follow me journey on YouTube</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -27,10 +27,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: https://www.youtube.com/c/trevorenygma
+[instagram]: https://www.instagram.com/trevorenygma/
+[linkedin]: https://linkedin.com/in/deontetcampbell
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
