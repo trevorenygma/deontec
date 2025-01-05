@@ -27,7 +27,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/trevorenygma
+#[youtube]: https://www.youtube.com/#
 [instagram]: https://www.instagram.com/trevorenygma/
 [linkedin]: https://linkedin.com/in/deontetcampbell
 
