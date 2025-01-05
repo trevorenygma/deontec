@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-Aspiring Network Security Engineer.
+I am currently working as an Account Executive. My interest lies in cybersecurity, and I am constantly learning and developing new skills in this exciting field. This GitHub repository showcases my projects and learning journey as I transition into a cybersecurity role.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
