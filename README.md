@@ -1,17 +1,13 @@
 # Hello, I'm Deonte Campbell
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am currently working as an Account Executive. My interest lies in cybersecurity, and I am constantly learning and developing new skills in this exciting field. This GitHub repository showcases my projects and learning journey as I transition into a cybersecurity role.
+Highly motivated and experienced IT professional with a proven track record in firewall management and network configuration. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-With more a decade in tech
+Seeking a challenging Network Engineer position where I can leverage my skills and experience to contribute to building a robust and secure network infrastructure.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +19,7 @@ With more a decade in tech
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -46,9 +42,8 @@ With more a decade in tech
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/af2b95b5-bd7e-46c6-a0bf-16c1bf45702d"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
